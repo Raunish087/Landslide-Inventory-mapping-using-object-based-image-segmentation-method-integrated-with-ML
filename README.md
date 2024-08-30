@@ -1,0 +1,1 @@
+# Landslide-Inventory-mapping-using-object-based-image-segmentation-method-integrated-with-ML
